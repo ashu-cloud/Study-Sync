@@ -66,7 +66,7 @@ This project highlights clean design, responsive layouts, and visually appealing
 StudySync/
 │── index.html        # Main HTML file
 │── style.css         # Main CSS file
-│── /assets           # Images, icons, and media
+│── /images           # Images, icons, and media
 │── /screenshots      # Screenshots for README
 └── README.md         # Project documentation
 ```
