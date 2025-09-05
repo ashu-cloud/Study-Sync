@@ -80,7 +80,7 @@ Follow these steps to clone and run this project locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/studysync-landing-page.git
+git clone https://github.com/ashu-cloud/studysync-landing-page.git
 ```
 
 ### 2️⃣ Navigate into the Project Folder
